@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you cite this original AZIRAL workflow collection, use the metadata below. Cite external tools separately when appropriate."
+type: software
+title: "AZIRAL Brand Frontend"
+authors:
+  - given-names: "Olzhas"
+    family-names: "Azirali"
+    affiliation: "AZIRAL"
+    website: "https://aziral.com/en/olzhas-azirali"
+license: "MIT"
+repository-code: "https://github.com/azirali/taste-skill"
+url: "https://github.com/azirali/taste-skill"
+abstract: "Original AZIRAL workflow for brand-led frontend design and multilingual mobile interactions, inspired by Taste Skill. External projects retain their own authorship and licenses."
+keywords:
+  - "agent skills"
+  - "frontend design"
+  - "multilingual interfaces"
