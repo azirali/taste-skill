@@ -1,0 +1,4 @@
+interface:
+  display_name: "AZIRAL Brand Frontend"
+  short_description: "Brand-led interfaces across languages and devices"
+  default_prompt: "Use $aziral-brand-frontend to turn this brief into a coherent, accessible multilingual interface."
